@@ -1,0 +1,21 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /list","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"List with id 2 not found.","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Content is required","level":"error"}
+{"message":"Card with id 10b1361b-9398-4196-b8e0-b09e604b0a65 created","level":"info"}
+{"message":"List with id c8e062b1-cdc4-44c1-b37d-687a2dbeee69 created","level":"info"}
+{"message":"List with id 72372e14-e341-43da-b776-cc94de7613c5 created","level":"info"}
+{"message":"Header is required","level":"error"}
+{"message":"Card with id 2 not found in cards array.","level":"error"}
+{"message":"Card with id 3 not found in cards array.","level":"error"}
+{"message":"Card with id 1 deleted.","level":"info"}
